@@ -6,27 +6,27 @@ Este repositório contém resoluções de uma lista de 21 exercícios focados em
 
 |  | Resolução |
 |:---|:---:|
-| 01 | [Código](./exercicio-01.js) |
-| 02 | [Código](./exercicio-02.js) |
-| 03 | [Código](./exercicio-03.js) |
-| 04 | [Código](./exercicio-04.js) |
-| 05 | [Código](./exercicio-05.js) |
-| 06 | [Código](./exercicio-06.js) |
-| 07 | [Código](./exercicio-07.js) |
-| 08 | [Código](./exercicio-08.js) |
-| 09 | [Código](./exercicio-09.js) |
-| 10 | [Código](./exercicio-10.js) |
-| 11 | [Código](./exercicio-11.js) |
-| 12 | [Código](./exercicio-12.js) |
-| 13 | [Código](./exercicio-13.js) |
-| 14 | [Código](./exercicio-14.js) |
-| 15 | [Código](./exercicio-15.js) |
-| 16 | [Código](./exercicio-16.js) |
-| 17 | [Código](./exercicio-17.js) |
-| 18 | [Código](./exercicio-18.js) |
-| 19 | [Código](./exercicio-19.js) |
-| 20 | [Código](./exercicio-20.js) |
-| 21 | [Código](./exercicio-21.js) |
+| 01 | [Código](./tarefa1.js) |
+| 02 | [Código](./tarefa2.js) |
+| 03 | [Código](./tarefa3.js) |
+| 04 | [Código](./tarefa4.js) |
+| 05 | [Código](./tarefa5.js) |
+| 06 | [Código](./tarefa6.js) |
+| 07 | [Código](./tarefa7.js) |
+| 08 | [Código](./tarefa8.js) |
+| 09 | [Código](./tarefa9.js) |
+| 10 | [Código](./tarefa10.js) |
+| 11 | [Código](./tarefa11.js) |
+| 12 | [Código](./tarefa12.js) |
+| 13 | [Código](./tarefa13.js) |
+| 14 | [Código](./tarefa14.js) |
+| 15 | [Código](./tarefa15.js) |
+| 16 | [Código](./tarefa16.js) |
+| 17 | [Código](./tarefa17.js) |
+| 18 | [Código](./tarefa18.js) |
+| 19 | [Código](./tarefa19.js) |
+| 20 | [Código](./tarefa20.js) |
+| 21 | [Código](./tarefa21.js) |
 
 ## 🛠️ Tecnologias
 - JavaScript (ES6+)
