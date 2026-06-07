@@ -1,27 +1,21 @@
-/*
-A prefeitura de uma cidade fez uma pesquisa entre os seus habitantes, coletando dados
-sobre salário e número de filhos. Faça uma função que leia esses dados para um
-número não determinado de pessoas e retorne a média de salário da população, a
-média do número de filhos, o maior salário e o percentual de pessoas com salário até
-R$350,00.
-*/
+
 const prompt = require('prompt-sync')()
 function pesquisaHabitantes() {
-    let totalSalario = 0 //inicializacao
+    let totalSalario = 0 
     let totalFilhos = 0
     let maiorSalario = 0
     let salarioAte350 = 0
     let totalPessoas = 0
     
-    while (true) { //loop infinito 
+    while (true) {  
         let salario = parseFloat(prompt("Digite o salário: "))
 
-        if (salario < 0) { //condicao de parada
+        if (salario < 0) { 
             break
         }
         let filhos = parseInt(prompt("Digite o número de filhos: "))
 
-        totalSalario += salario //
+        totalSalario += salario 
         totalFilhos += filhos
         totalPessoas++
 
